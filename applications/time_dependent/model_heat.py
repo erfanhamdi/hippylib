@@ -20,7 +20,7 @@ import os
 import sys
 import argparse
 import numpy as np
-import ufl
+import ufl_legacy as ufl
 import dolfin as dl
 import matplotlib.pyplot as plt
 

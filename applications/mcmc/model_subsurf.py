@@ -14,7 +14,7 @@
 # Software Foundation) version 2.0 dated June 1991.
 
 import dolfin as dl
-import ufl
+import ufl_legacy as ufl
 import math
 import numpy as np
 import matplotlib.pyplot as plt

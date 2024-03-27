@@ -16,7 +16,7 @@
 # Software Foundation) version 2.0 dated June 1991.
 
 import dolfin as dl
-import ufl
+import ufl_legacy as ufl
 from .pointwiseObservation import assemblePointwiseObservation
 from .variables import STATE, PARAMETER
 from ..algorithms.linalg import Transpose

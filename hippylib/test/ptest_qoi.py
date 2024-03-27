@@ -15,7 +15,7 @@
 
 import unittest 
 import dolfin as dl
-import ufl
+import ufl_legacy as ufl
 import numpy as np
 
 import sys

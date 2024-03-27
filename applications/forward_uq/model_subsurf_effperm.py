@@ -16,7 +16,7 @@
 import math
 import argparse
 import dolfin as dl
-import ufl
+import ufl_legacy as ufl
 import sys
 import os
 sys.path.append( os.environ.get('HIPPYLIB_BASE_DIR', "../../") )
